@@ -761,7 +761,17 @@ body {
     transform:translateY(-2px);
 }
 
-
-
-
+.resume-btn{
+    display:inline-block;
+    margin-top:15px;
+    padding:10px 20px;
+    background: #6c63ff;
+    color:white;
+    text-decoration: none;
+    border-radius: 8px;
+font-weight: 600;
+}
+.resume-btn:hover{
+    transform: translateY(-2px);
+}
 
